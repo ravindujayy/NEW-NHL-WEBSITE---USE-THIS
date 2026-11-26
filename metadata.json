@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NHL International copy!!!!!!!!!!!!!!!",
+  "description": "NHL International supplies garment trims and accessories to apparel manufacturers and fashion brands worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
